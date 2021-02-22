@@ -125,13 +125,13 @@ Publish the website in the given URL.
 ~~~
 
 ## OUTPUT:
-![output](./static/img/o1.png)
+![output](./static/img/1.png)
 
-![output](./static/img/o2.png)
+![output](./static/img/2.png)
 
-![output](./static/img/o3.png)
+![output](./static/img/3.png)
 
-![output](./static/img/o4.png)
+![output](./static/img/4.png)
 
 
 ## RESULT:
